@@ -52,3 +52,18 @@ Each directory keeps its own `LICENSE` file(s) and `README.md` recording the ups
 | Directory | Description | License | Upstream |
 |---|---|---|---|
 | `ps1-tests/` | Jakub Czekański's PS1 hardware EXEs and console TTY logs | MIT | https://github.com/JaCzekanski/ps1-tests |
+
+## Playable Demos
+
+Permissively licensed homebrew games bundled into Tempo's browser player (`/play/demos/`). Every entry below has been verified for permissive code and asset licenses (no GPL, no CC-BY-NC, no Kickstart/BIOS requirement).
+
+| Directory | System | Description | License | Upstream |
+|---|---|---|---|---|
+| `demos/2048-nes/` | NES | 2048 (`2048.nes`) | Unlicense | https://github.com/mmuszkow/2048-nes |
+| `demos/adjustris/` | Game Boy | Adjustris (`adjustris.gb`, v1.1) | CC0-1.0 | https://github.com/tbsp/Adjustris |
+| `demos/2048-gb/` | Game Boy | 2048 (`2048.gb`, v1.1) | MIT | https://github.com/wyattferguson/2048-gb |
+| `demos/labyrinth-of-the-dragon/` | Game Boy Color | Labyrinth of the Dragon (`labyrinth-of-the-dragon.gbc`, v1.0.5a) | MIT | https://github.com/NesHacker/LabyrinthOfTheDragon |
+| `demos/gothicvania/` | Super NES | Gothicvania (`gothicvania.sfc`, v1.0.0) | MIT (CC0 art) | https://github.com/donth77/snes-homebrew |
+| `demos/miniplanets/` | Genesis | Miniplanets REMIX Ver REV04 (`miniplanets.bin`) | zlib | https://github.com/sikthehedgehog/miniplanets |
+| `demos/battle-4tris/` | Genesis | Battle 4Tris (`battle-4tris.bin`, build-9) | MIT | https://github.com/monteslu/retro-homebrew-games |
+| `demos/hexes/` | Game Boy Advance | HEXES (`hexes.gba`, v0.1.1-gbajam22) | MIT | https://github.com/EigenlightArts/HEXES |
